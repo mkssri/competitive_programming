@@ -81,6 +81,29 @@
 | Mar 26, 2023 | 11:06, 12:10, 1:49, 2:43, 3:38, 4:30, 5:51, 6:40, 10:58 | 4.5 |
 | Mar 27, 2023 | 12:38, 1:16, 2:39, 3:51, 5:23, 10:20, 11:03 | 3.5 |
 | Mar 28, 2023 | 8:00, 8:45, 12:05 | 1.5 |
+| Mar 29, 2023 | dayoff | 0 |
+| Mar 30, 2023 | 12:52, 1:48, 2:55, 5:19, 10:29, 12:21 | 3.0 |
+| Mar 31, 2023 | dayoff | 0 |
+| Apr 1, 2023 | 2:05, 3:20 | 1.0 |
+| Apr 2, 2023 | 12:20, 1:10 | 1.0 |
+| Apr 3, 2023 | 6:08, 10:46 | 1.0 |
+| Apr 4-5, 2023 | - | dont remember |
+| Apr 6, 2023 | 12:15,11:06,10:32,11:35 | 2.0 |
+| Apr 7, 2023 | 1:20,2:35, 3:16, 4:02, 6:34, 7:30, 8:14, 8:46, 9:33, 10:04 | 5.0 |
+| Apr 8, 2023 | 4:23 | 0.5 |
+| Apr 9, 2023 | 1:15, 3:03, 3:45, 4:29, 5:09, 5:52, 6:30 | 3.5 |
+| Apr 10, 2023 | 1:45, 2:37 | 1.0 |
+| Apr 11, 2023 | don't remember | 0.0 |
+| Apr 12, 2023 | 4:03, 5:03  | 1.0 |
+| Apr 13, 2023 | 2:50, 3:33, 1:52 | 1.5 |
+| Apr 14, 2023 | 11:50, 12:22 | 1.0 |
+| Apr 15, 2023 | 1:43, 3:00, 4:19, 5:35 | 2.0 |
+| Apr 16, 2023 | 6:21, 7:00, 7:32 | 1.5 |
+| Apr 17, 2023 | 9:45, 10:28 | 1.0 |
+| Apr 18, 2023 | 4:02, 9:10,9:50, 11:08, 12:48 | 2.5 |
+| Apr 19, 2023 | 3:27, 4:04, 7:27 | 1.5 |
+| Apr 20, 2023 |  | 0.0 |
+| Apr 21, 2023 | 4:33, 5:15 | 1.0 |
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
@@ -89,4 +112,5 @@ Some Dockers and Kubernetes.
 #
 Want to build scalable software system’s which are flexible, functional, modular, testable and extensible.
 
-Interacted with high value business clients to understand their technical product requirements and designed scalable software networking solutions there by driving millions of dollars of impact.
+Interacted with high value business clients to understand their technical product requirements and designed 
+scalable software networking solutions there by driving millions of dollars of impact.

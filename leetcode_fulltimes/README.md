@@ -119,3 +119,5 @@
 | Mar23-24, 2023 | 0 | forgot |
 | Mar25-27, 2023 | 0 | Murali did C Programing |
 | Mar28, 2023 | 1 | 160 |
+| Mar29-Apr22, 2023 | 0 | Murali did not do competitive coding |
+| Apr23, 2023 | 1 | 206 |
