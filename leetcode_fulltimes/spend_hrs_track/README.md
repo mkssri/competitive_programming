@@ -104,6 +104,17 @@
 | Apr 19, 2023 | 3:27, 4:04, 7:27 | 1.5 |
 | Apr 20, 2023 |  | 0.0 |
 | Apr 21, 2023 | 4:33, 5:15 | 1.0 |
+| Apr 22, 2023 | murali don't remember | 0.0 |
+| Apr 23, 2023 | 7:53,8:26,9:18 | 1.5 |
+| Apr 24, 2023 | 7:37 | 0.5 |
+| Apr 25, 2023 | school | ? |
+| Apr 26, 2023 | 7:27, 9:48, 10:39 | 1.5+school |
+| Apr 27, 2023 | - | school |
+| Apr 28, 2023 | 11:16, 1:45, 6:33 | 1.5 |
+| Apr 29, 2023 | 5:42 | 0.5 |
+| Apr 30, 2023 | 10:27, 11:12, 12:04, 2:06 | 2.0 |
+| May1to7, 2023 | - | murali did not track |
+| May 08, 2023 | 12:15 | 0.5 |
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
