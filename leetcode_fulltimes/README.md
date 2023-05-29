@@ -125,3 +125,4 @@
 | May6, 2023 | 1 | 206 |
 | May6-May10, 2023 | 0 | Murali did not do competitive coding |
 | May11, 2023 | 1 | 21 |
+| May12-28, 2023 | 0 | murali did not do competitive programming |
