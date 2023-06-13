@@ -130,7 +130,22 @@
 | May 26, 2023 | 7:56a, 9, 9:41, 5:03, 5:59 | 2.5 |
 | May 27, 2023 | - | chill |
 | May 28, 2023 | - | chill |
-| May 29, 2023 | 9:46, 1:45p | 1.0 |
+| May 29, 2023 | 9:46, 1:45p, 3:14, 4:49 | 2.0 |
+| May 30, 2023 | - | chill |
+| May 31, 2023 | 11:20, 2:14p, 3:08, 5:42, 7:21 | 2.5, murali did not complete hw8 fully |
+| June 01, 2023 | 11:18, 11:58 | 1.0 |
+| June 02, 2023 | 7:38, 11:14 | 1.0 |
+| June 03, 2023 | 12:36 | 0.5 |
+| June 04, 2023 | - | half marathon + driving + more |
+| June 05, 2023 | 7:05, 9:16, 10:04 | 1.5 |
+| June 06, 2023 | 11:44 | 0.5 |
+| June 07, 2023 | 11:03 | 0.5 |
+| June 08, 2023 | - | school + chill |
+| June 09, 2023 | - | school + chill |
+| June 10, 2023 | 1.53 | 12:15, 1:02, 2:17, 3:25(23) |
+| June 11, 2023 | 3.5 | 9:58, 12:11p, 1:05, 3:51, 5:09, 9:23, 11:35 |
+| June 12, 2023 | 3.0 | 7:05, 7:42, 9:09, 10:49, 11:50, 12:26 |
+
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.

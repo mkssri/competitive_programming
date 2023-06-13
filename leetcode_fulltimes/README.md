@@ -127,3 +127,5 @@
 | May11, 2023 | 1 | 21 |
 | May12-28, 2023 | 0 | murali did not do competitive programming |
 | May29, 2023 | 2 | 217, 242 |
+| May30-June11, 2023 | 0 | murali did not do competitive programming, but he did work on hws in c/c++(ics45c) class at UCI |
+| June12, 2023 | 1 | 21 |
