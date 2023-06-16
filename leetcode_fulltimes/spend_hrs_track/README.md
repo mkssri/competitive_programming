@@ -145,7 +145,8 @@
 | June 10, 2023 | 1.53 | 12:15, 1:02, 2:17, 3:25(23) |
 | June 11, 2023 | 3.5 | 9:58, 12:11p, 1:05, 3:51, 5:09, 9:23, 11:35 |
 | June 12, 2023 | 3.5 | 7:05, 7:42, 9:09, 10:49, 11:50, 12:26p, 11:04 |
-
+| June 13-14, 2023 | 0 | did not study |
+| June 15, 2023 | 0.5 | 11:55 |
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
