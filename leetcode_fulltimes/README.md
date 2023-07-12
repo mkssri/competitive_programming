@@ -133,3 +133,5 @@
 | June16 | 1 | 226 |
 | June17-July3, 2023 | 0 | murali did not do competitive programming |
 | July4 | 1 | 19 |
+| July5-11 | 0 | murali did not do competitive programming |
+| July12 | 1 | 704 |
