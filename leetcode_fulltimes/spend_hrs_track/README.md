@@ -150,6 +150,13 @@
 | June 16-24, 2023 | 0 | did not study |
 | June 25, 2023 | 1.5 | 5:59p, 6:46, 11:22 |
 | June 26, 2023 | 1.0 | 11:20, 12:15p, 4:26 |
+| June 26-July6, 2023 | 0 | |
+| July7, 2023 | 1.5 | 4:14, 6:14, 7:30 |
+| July8, 2023 | 0.5 | 9:57 |
+| July9, 2023 | 0.5 | 12:21 |
+| July10, 2023 | 0 | - |
+| July11, 2023 | 0.5 | 9:00 |
+
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
