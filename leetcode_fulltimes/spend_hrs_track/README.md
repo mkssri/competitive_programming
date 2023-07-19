@@ -156,6 +156,10 @@
 | July9, 2023 | 0.5 | 12:21 |
 | July10, 2023 | 0 | - |
 | July11, 2023 | 0.5 | 9:00 |
+| July12-15, 2023 | 0 | office and murali did not track |
+| July16 | 1.5 | 1:40, 2:21, 3:02 |
+| July17 | 0 | - |
+| July18 | 0.5 | 10:42 |
 
 
 # Skills you know
