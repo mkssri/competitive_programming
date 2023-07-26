@@ -11,30 +11,30 @@
      TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  };
 
-
-
 class Solution {
 
 public:
 
-    int result=0;
+    int res=0;
 
-    int diameterOfBinaryTree(TreeNode* root) {
-        helper(root);
-        return result;
+    int helper(TreeNode* root) {
+        
+        if(root==nullptr) {
+            return 0;
+        }
+
+        int l = this->helper(root->left);
+        int r = this->helper(root->right);
+
+        res = std::max(res, l+r);
+
+        return 1+std::max(l,r);
     }
 
-    int helper( TreeNode* root ) {
-        
-        if(root==nullptr) 
-            return 0;
-        
-        int le = helper(root->left);
-        int ri = helper(root->right);
+    int diameterOfBinaryTree(TreeNode* root) {
 
-        result = std::max(result, le+ri);
-        return 1+std::max(le,ri);        
-
+        helper(root);
+        return res;
     }
 
 };
