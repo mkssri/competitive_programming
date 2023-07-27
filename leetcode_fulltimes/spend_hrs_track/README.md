@@ -167,6 +167,7 @@
 | July23, 2023 | 1.0 | 2:11p, 9:00 |
 | July24, 2023 | 0.0 | - |
 | July25, 2023 | 1.0 | 12:45, 9:00p |
+| July26, 2023 | 0.5 | 11:20p |
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
