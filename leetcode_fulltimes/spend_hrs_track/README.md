@@ -168,6 +168,8 @@
 | July24, 2023 | 0.0 | - |
 | July25, 2023 | 1.0 | 12:45, 9:00p |
 | July26, 2023 | 0.5 | 11:20p |
+| July27-31, 2023 | 0.0 | murali did not do anything |
+| Aug01, 2023 | 0.5 | 9:27p |
 
 # Skills you know
 Python, Operating Systems, Some C++, Some Networks, Some System design.
