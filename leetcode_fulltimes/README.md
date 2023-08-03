@@ -153,3 +153,4 @@
 | July28 | 1 | 572 |
 | July29-31 | 0 | murali did not do competitive programming |
 | Aug1 | 1 | 242 |
+| Aug2 | 1 | 121 |
