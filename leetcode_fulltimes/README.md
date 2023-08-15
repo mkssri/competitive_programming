@@ -162,3 +162,5 @@
 | Aug11 | 1 | 66 |
 | Aug12 | 1 | 202 |
 | Aug13 | 1 | 268 |
+| Aug14 | 0 | murali did not do competitive programming |
+| Aug15 | 1 | 200 |
