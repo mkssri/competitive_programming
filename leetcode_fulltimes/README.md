@@ -171,3 +171,5 @@
 | Aug31 | 1 | 704 |
 | sep1-3 | 0 | murali did not do cp |
 | sep4 | 1 | 88 |
+| sep5-30 | 0 | murali did not do competitive programming |
+| oct1 | 1 | 49 |
