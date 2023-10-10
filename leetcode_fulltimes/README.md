@@ -175,3 +175,5 @@
 | oct1 | 1 | 49 |
 | oct2-6 | 0 | murali did not do competitive programming |
 | oct7 | 1 | 238 |
+| oct8 | 0 | murali did not do competitive programming |
+| oct9 | 1 | 271 |
